@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{F654F044-A588-D99D-05EA-168ABA844A4E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ObjectPooler.cs" Line="40" Column="9" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/Triggertest.cs" Line="18" Column="3" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="14" Column="44" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/karolinamadej/Desktop/Unity/Rainy Knifes/Assets/Scripts/Spawner.cs" relfile="Assets/Scripts/Spawner.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
